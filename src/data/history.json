@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Android Intern",
+    "organisation": "Hazel Mobile",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Flutter Intern",
+    "organisation": "VisionBird",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "ASE",
+    "organisation": "Gao Tek",
+    "startDate": "Dec, 2022",
+    "endDate": "March, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

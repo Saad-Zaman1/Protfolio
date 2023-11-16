@@ -1,0 +1,50 @@
+[
+  {
+    "title": "E-Commerce App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Kotlin", "Compose", "MVVM", "Hilt", "Jetpack Components"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/E-Commerce-App"
+  },
+  {
+    "title": "RealEstate App",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Kotlin", "MVC", "RoomDB", "Jetpack Components"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/RealEstate-App"
+  },
+  {
+    "title": "ImageGallery App",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["RetroFit", "MVVM", "Kotlin", "Hilt", "Jetpack Components"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/ImageGallery"
+  },
+  {
+    "title": "ExpenseTracker App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["RoomDB", "MVVM", "Kotlin", "Hilt"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/ExpenseTracker"
+  },
+  {
+    "title": "ExpenseTracker App",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Flutter", "Dart", "MVC"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter"
+  },
+  {
+    "title": "Fitness App",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/StryveFit"
+  }
+]

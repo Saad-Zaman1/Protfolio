@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Kotlin",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Compose",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Hilt",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "RetroFit",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
