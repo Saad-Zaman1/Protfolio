@@ -1,7 +1,7 @@
 [
   {
     "title": "E-Commerce App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project.gif",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Kotlin", "Compose", "MVVM", "Hilt", "Jetpack Components"],
     "demo": "https://www.example.com",
