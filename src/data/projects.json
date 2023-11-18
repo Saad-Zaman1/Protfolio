@@ -7,9 +7,17 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/Saad-Zaman1/E-Commerce-App"
   },
+    {
+    "title": "Fitness App",
+    "imageSrc": "projects/project2.gif",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Kotlin", "Firebase", "SQlite"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Saad-Zaman1/StryveFit"
+  },
   {
     "title": "RealEstate App",
-    "imageSrc": "projects/project2.png",
+    "imageSrc": "projects/project3.gif",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Kotlin", "MVC", "RoomDB", "Jetpack Components"],
     "demo": "https://www.example.com",
@@ -17,7 +25,7 @@
   },
   {
     "title": "ImageGallery App",
-    "imageSrc": "projects/project3.png",
+    "imageSrc": "projects/project5.gif",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["RetroFit", "MVVM", "Kotlin", "Hilt", "Jetpack Components"],
     "demo": "https://www.example.com",
@@ -25,26 +33,19 @@
   },
   {
     "title": "ExpenseTracker App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project4.gif",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["RoomDB", "MVVM", "Kotlin", "Hilt"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Saad-Zaman1/ExpenseTracker"
   },
   {
-    "title": "ExpenseTracker App",
-    "imageSrc": "projects/project2.png",
+    "title": "Meal App",
+    "imageSrc": "projects/project6.gif",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Flutter", "Dart", "MVC"],
+    "skills": ["Flutter", "Dart", "MVC", "DataStorage"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter"
-  },
-  {
-    "title": "Fitness App",
-    "imageSrc": "projects/project3.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Saad-Zaman1/StryveFit"
+    "source": "https://github.com/Saad-Zaman1/Meal-app-in-flutter"
   }
+
 ]

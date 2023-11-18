@@ -8,10 +8,24 @@
 }
 
 .title {
-  font-size: 35px;
+  color: var(--color-text);
+  font-size: 45px;
+  padding: 40px 0;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+}
+
+.title::after {
+  content: "";
+  display: flex;
+  width: 21%;
+  height: 4px;
+  margin-top: 8px;
+  background: linear-gradient(120deg,
+      rgba(165, 215, 232, 0.42) 50%,
+      rgba(168, 160, 160, 0.8) 80%);
+  transition: .2s ease-in-out;
 }
 
 .projects {

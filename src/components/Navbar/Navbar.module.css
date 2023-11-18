@@ -1,7 +1,6 @@
 @import "../../vars.css";
 
 .navbar {
-  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11,7 +10,7 @@
 }
 
 .title {
-  font-size: 30px;
+  font-size: 34px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
@@ -31,6 +30,20 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+}
+.menuItems a::after{
+  content: "";
+  width: 0;
+  height: 4px;
+  display: block;
+  background: linear-gradient(90deg,
+          rgba(165, 215, 232, 0.42) 50%,
+          rgba(168, 160, 160, 0.8) 50%);
+  transition: .2s ease-in-out;
+  
+}
+.menuItems a:hover::after{
+  width: 100%;
 }
 .menuBtn {
   display: none;

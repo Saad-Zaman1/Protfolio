@@ -4,30 +4,35 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
+  margin-bottom: 45px;
+  margin-right: 34px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 345px;
+  max-width: 315px;
 }
 
 .image {
   margin-bottom: 26px;
+  border-radius: 5px;
 }
 
 .title {
-  font-size: 25px;
+  font-size: 27px;
   font-weight: 700;
 }
 
 .description {
-  margin-top: 6px;
-  font-size: 25px;
+  margin-top: 12px;
+  font-size: 16px;
+  color: gainsboro;
   font-weight: 400;
+  padding-bottom: 10px;
 }
 
 .skills {
   width: 100%;
-  margin-top: 14px;
+  margin-top: 19px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -36,7 +41,7 @@
 }
 
 .skill {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
@@ -53,9 +58,9 @@
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 600;
   border-radius: 100px;
   background: var(--color-primary);
-  padding: 1px 22px;
+  padding: 4px 25px;
 }

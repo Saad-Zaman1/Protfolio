@@ -13,10 +13,22 @@
 
 .title {
   color: var(--color-text);
-  font-size: 35px;
+  font-size: 39px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+}
+
+.title::after {
+  content: "";
+  display: flex;
+  width: 23%;
+  height: 4px;
+  margin-top: 8px;
+  background: linear-gradient(130deg,
+      rgba(165, 215, 232, 0.42) 50%,
+      rgba(168, 160, 160, 0.8) 80%);
+  transition: .2s ease-in-out;
 }
 
 .content {
@@ -26,14 +38,17 @@
 }
 
 .aboutImage {
-  width: 35%;
+  margin-top: 40px;
+  width: 38%;
+  /* height: 70vh; */
+  border-radius: 10px;
 }
 
 .aboutItems {
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 90px;
 }
 
 .aboutItem {
@@ -51,20 +66,27 @@
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.4s;
+  /* margin-left: 45px; */
 }
 
 .aboutItem:hover {
   background-size: 100% 100%;
   cursor: default;
 }
-
+.aboutItem img{
+  margin-top: 40px;
+  padding-right: 20px;
+}
 .aboutItem h3 {
-  font-size: 30px;
+  font-size: 35px;
+  padding-bottom: 10px;
   font-weight: 600;
+  letter-spacing: 2px;
 }
 
 .aboutItem p {
-  font-size: 22px;
+  font-size: 20px;
+  color: gainsboro;
 }
 
 span{
